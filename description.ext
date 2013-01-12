@@ -1,0 +1,7 @@
+//Operation Little Pluto description.ext
+//written by samas 11-Jan-2013
+
+onLoadMission = "Operation Little Pluto by ThugActual";
+onLoadIntro = "Stay Frosty and Pull Security";
+loadScreen = "pictures\OPLP_LS.paa";
+disabledAI = 1;
