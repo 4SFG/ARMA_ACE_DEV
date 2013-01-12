@@ -1,7 +1,7 @@
 version=11;
 class Mission
 {
-  addOns[]=
+	addOns[]=
 	{
 		"takistan",
 		"cacharacters_e",
@@ -79,7 +79,7 @@ class Mission
 	class Groups
 	{
 		items=60;
-		class Item0
+		class Item7
 		{
 			side="WEST";
 			class Vehicles
@@ -164,7 +164,7 @@ class Mission
 				};
 			};
 		};
-		class Item4
+		class Item20
 		{
 			side="WEST";
 			class Vehicles
@@ -286,7 +286,7 @@ class Mission
 				};
 			};
 		};
-		class Item5
+		class Item21
 		{
 			side="WEST";
 			class Vehicles
@@ -408,7 +408,7 @@ class Mission
 				};
 			};
 		};
-		class Item6
+		class Item22
 		{
 			side="WEST";
 			class Vehicles
@@ -530,7 +530,7 @@ class Mission
 				};
 			};
 		};
-		class Item7
+		class Item8
 		{
 			side="WEST";
 			class Vehicles
@@ -551,7 +551,7 @@ class Mission
 				};
 			};
 		};
-		class Item8
+		class Item12
 		{
 			side="WEST";
 			class Vehicles
@@ -572,7 +572,7 @@ class Mission
 				};
 			};
 		};
-		class Item9
+		class Item11
 		{
 			side="WEST";
 			class Vehicles
@@ -593,7 +593,7 @@ class Mission
 				};
 			};
 		};
-		class Item10
+		class Item5
 		{
 			side="WEST";
 			class Vehicles
@@ -614,7 +614,7 @@ class Mission
 				};
 			};
 		};
-		class Item11
+		class Item6
 		{
 			side="WEST";
 			class Vehicles
@@ -635,7 +635,7 @@ class Mission
 				};
 			};
 		};
-		class Item12
+		class Item10
 		{
 			side="WEST";
 			class Vehicles
@@ -656,7 +656,7 @@ class Mission
 				};
 			};
 		};
-		class Item13
+		class Item9
 		{
 			side="WEST";
 			class Vehicles
@@ -795,7 +795,7 @@ class Mission
 				};
 			};
 		};
-		class Item20
+		class Item13
 		{
 			side="WEST";
 			class Vehicles
@@ -828,7 +828,7 @@ class Mission
 				};
 			};
 		};
-		class Item21
+		class Item23
 		{
 			side="WEST";
 			class Vehicles
@@ -917,7 +917,7 @@ class Mission
 				};
 			};
 		};
-		class Item22
+		class Item47
 		{
 			side="WEST";
 			class Vehicles
@@ -998,7 +998,7 @@ class Mission
 				};
 			};
 		};
-		class Item23
+		class Item53
 		{
 			side="WEST";
 			class Vehicles
@@ -4187,7 +4187,7 @@ class Mission
 				};
 			};
 		};
-		class Item47
+		class Item0
 		{
 			side="WEST";
 			class Vehicles
@@ -4896,7 +4896,7 @@ class Mission
 				};
 			};
 		};
-		class Item53
+		class Item4
 		{
 			side="WEST";
 			class Vehicles
