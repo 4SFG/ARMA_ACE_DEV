@@ -11,11 +11,11 @@ player setCurrentTask task;
 
 
 
-player createDiaryRecord["Diary", ["Command and Signal", "Anvil 6 - PRC 119 channel 1"]];
-player createDiaryRecord["Diary", ["Command and Signal", "Shooter 6 - PRC 119 Channel 2"]];
-player createDiaryRecord["Diary", ["Command and Signal", "Assassin 6 - PRC 119 Channel 3"]];
-player createDiaryRecord["Diary", ["Command and Signal", "Capone 6 - PRC-119 Channel 5"]];
-player createDiaryRecord["Diary", ["Service and Support", "160th SOAR will provide Transport and Medevac"]];
+player createDiaryRecord["Diary", ["Command and Signal", "Anvil 6 - 36.625Mhz Channel 1"]];
+player createDiaryRecord["Diary", ["Command and Signal", "Shooter 6 - 37.775Mhz Channel 2"]];
+player createDiaryRecord["Diary", ["Command and Signal", "Assassin 6 - 40.275Mhz Channel 3"]];
+player createDiaryRecord["Diary", ["Command and Signal", "Capone 6 - 47.350Mhz Channel 5"]];
+player createDiaryRecord["Diary", ["Service and Support", "160th SOAR tasking: INSERT/EXFIL CASEVAC CAS."]];
 player createDiaryRecord["Diary", ["Execution", "San Fransico Phase <br/>With New York completed, Task Force Capone will exfil back to American Airbase Washington."]];
 player createDiaryRecord["Diary",["Execution", "New York Phase <br/>With Chicago Phase complete, Assassin element will clear out the mine of all hostiles. Once this is completed Assassin will radio up to Capone 6 to signal the mission complete."]]; 
 player createDiaryRecord["Diary",["Execution","Chicago Phase<br/>Elements of 75th and 3rd AD will setup blocking positions at the T-intersection 05840667 and the T-intersection 04680579. Once the intersections are blocked off radio up to Capone 6 signaling Chicago Phase is completed."]];
