@@ -1,7 +1,19 @@
 //Operation Little Pluto description.ext
-//written by samas 11-Jan-2013
+//written by samas
+//4SFG S-4 
+//
 
-onLoadMission = "Operation Little Pluto by ThugActual";
+//Start Params
+//Mission Start Params
+onLoadMission = "Operation Little Pluto by ThugActual"; 
 onLoadIntro = "Stay Frosty and Pull Security";
-loadScreen = "pictures\OPLP_LS.paa";
+loadScreen = "pictures\4SFG_OPLP.paa";
 disabledAI = 1;
+
+//Respawn Options
+respawn = 3; //requires marker named "respawn_west" to operate
+respawnDelay = 60;
+respawnVehicleDelay = 360;
+respawnDialog = 0;
+
+disableChannels[] = {0,1}; //Disabled Global(0) and Side(1) text chats BETA1.60.93965
