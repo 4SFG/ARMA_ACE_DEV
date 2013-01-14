@@ -10,7 +10,7 @@ player setCurrentTask task;
 
 
 
-//player createDiaryRecord["Diary", ["Command and Signal", "Anvil 6 - 36.625Mhz Channel 1"]];
+player createDiaryRecord["Diary", ["Command and Signal", "Outlaw 6 - 36.625Mhz Channel 1"]];
 player createDiaryRecord["Diary", ["Command and Signal", "Shooter 6 - 37.775Mhz Channel 2"]];
 player createDiaryRecord["Diary", ["Command and Signal", "Assassin 6 - 40.275Mhz Channel 3"]];
 player createDiaryRecord["Diary", ["Command and Signal", "Capone 6 - 47.350Mhz Channel 5"]];
