@@ -1,2 +1,2 @@
 execVM "briefing.sqf";
-playMusic musicIntro;
+playMusic "musicIntro";
