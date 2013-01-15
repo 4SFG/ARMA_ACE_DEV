@@ -7,7 +7,7 @@
 //Mission Start Params
 onLoadMission = "Operation Little Pluto by ThugActual";
 onLoadIntro = "Stay Frosty and Pull Security";
-loadScreen = "pictures\4SFG_OPLP.paa";
+loadScreen = "pictures\4SFG_OPLP.jpg";
 disabledAI = 1;
 
 //Respawn Options
