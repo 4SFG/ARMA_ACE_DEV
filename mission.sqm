@@ -80,7 +80,7 @@ class Mission
 	class Intel
 	{
 		briefingName="Operation Little Pluto";
-		briefingDescription="4SFG Raid the Mine field";
+		briefingDescription="4SFG Raid the Mine field created by - Thug Actual";
 		startWeather=0.57601154;
 		startFog=0.43371534;
 		forecastWeather=0.83831918;
