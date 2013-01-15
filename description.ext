@@ -7,7 +7,7 @@
 //Mission Start Params
 onLoadMission = "Operation Little Pluto by ThugActual";
 onLoadIntro = "Stay Frosty and Pull Security";
-loadScreen = "pictures\4SFG_OPLP.jpg";
+loadScreen = "4SFG_OPLP.jpg";
 disabledAI = 1;
 
 //Respawn Options
@@ -22,9 +22,9 @@ class CfgMusic
 {
   tracks[]={};
 
-	class musicIntro
-	{
-		name = "";
-		sound[] = {"Warrior.ogg", db+0, 1.0};
-	};
+class musicIntro
+{
+name = "";
+sound[] = {"Warrior.ogg", db+0, 1.0};
+};
 };
