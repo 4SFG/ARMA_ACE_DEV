@@ -1,3 +1,8 @@
+//Operation Desert Mistletoe
+//A Custom Operation by Johnson and samas
+//This is a copy of Op Little Pluto, just edited for new mission params
+//first edit 18-Jan-2013
+
 version=11;
 class Mission
 {
@@ -65,8 +70,8 @@ class Mission
 	randomSeed=8047479;
 	class Intel
 	{
-		briefingName="Operation Little Pluto";
-		briefingDescription="4SFG Raid the Mine field";
+		briefingName="Operation Desert Mistletoe";
+		briefingDescription="4SFG Disarm the bomb";
 		startWeather=0.57601154;
 		startFog=0.43371534;
 		forecastWeather=0.83831918;
