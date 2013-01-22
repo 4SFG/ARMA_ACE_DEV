@@ -1,0 +1,35 @@
+//Operation 
+//written by samas
+//4SFG S-4
+//
+
+//View distance script
+#include "mission_settings\dialog\common.hpp"
+#include "mission_settings\dialog\mission_settings.hpp"
+
+//Start Params
+//Mission Start Params
+onLoadMission = "Operation Greasy Pig by ThugActual";
+onLoadIntro = "ONLY THE STRONG SURVIVE";
+loadScreen = "4SFG_loadingScreen_OPGP.jpg";
+disabledAI = 1;
+
+//Respawn Options
+//respawn = 3; //requires marker named "respawn_west" to operate
+//respawnDelay = 60;
+//respawnVehicleDelay = 360;
+//respawnDialog = 0;
+
+disableChannels[] = {0,1}; //Disabled Global(0) and Side(1) text chats BETA1.60.93965
+//Added music. 100 Black Coffins Rick Ross Django Unchained Soundtrack
+class CfgMusic
+{
+  tracks[]={};
+
+class musicIntro
+{
+name = "";
+sound[] = {"100blackCoffins.ogg", db+0, 1.0};
+};
+};
+
